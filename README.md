@@ -11,6 +11,7 @@ GitBucket CLI is a tool for seamless integration with GitBucket from the command
 - [Motivation](#motivation)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Contribution](#contribution)
 - [Inspiration](#inspiration)
 - [License](#license)
 
@@ -52,6 +53,10 @@ I use GitHub in my private life, but I use [GitBucket](https://github.com/gitbuc
 #### Show help
 
 `gitbucket-cli --help`
+
+## Contribution
+
+Thanks for taking the time to contribute. For detailed instructions on how to get started with our project, see [CONTRIBUTING.md](./.github/CONTRIBUTING.md).
 
 ## Inspiration
 
